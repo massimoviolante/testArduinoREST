@@ -1,2 +1,2 @@
 # testArduinoREST
-Hello, World!\n
+Hello, World!
